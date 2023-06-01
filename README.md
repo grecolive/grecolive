@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [RECIE](https://revistas.isfodosu.edu.do)
 
-- 🌱 I’m currently learning **VUEJS, Symphony**
+- 🌱 I’m currently learning **VueJS, Symfony**
 
-- 💬 Ask me about **PHP, C++, VUEJS**
+- 💬 Ask me about **PHP, C++, VueJS**
 
 - 📫 How to reach me **gregori_dj@hotmail.com**
 
