@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.bf99750c1d7fa3f24ec17909b6ebe83b?rik=D5izh1vRBtO66w&riu)](https://grecolive.github.io/portfolio)
+[![MasterHead]([https://th.bing.com/th/id/R.bf99750c1d7fa3f24ec17909b6ebe83b?rik=D5izh1vRBtO66w&riu])](https://grecolive.github.io/portfolio)
 <h1 align="center">Hi 👋🏽, I'm Gregory Santos</h1>
 <h3 align="center">A passionate backend developer from Dominican Republic</h3>
 <img align="right" title="Coding" width="400" src="https://images.prismic.io/northcoders/3b1f3e48-98df-44e4-856b-4ad7bf25b94c_a58df3474587baa46eb81415faa143d4.gif" alt="">
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [RECIE](https://revistas.isfodosu.edu.do)
 
-- 🌱 I’m currently learning **VueJS, Symfony**
+- 🌱 I’m currently learning **Angular, Laravel**
 
-- 💬 Ask me about **PHP, C++, VueJS**
+- 💬 Ask me about **PHP, Laravel, Clean Code,**
 
 - 📫 How to reach me **gregori_dj@hotmail.com**
 
